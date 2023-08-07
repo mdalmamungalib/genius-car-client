@@ -8,3 +8,7 @@
     display:inline-block;
     background: linear-gradient(to right, #151515 0%,rgba(21, 21, 21, 0) 100%); /* W3C */
   }
+
+  .carousel-img2:after{
+    border-radius: 5px;
+  }
